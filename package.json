@@ -1,0 +1,35 @@
+{
+  "name": "ldapjs-winston-adapter",
+  "description": "Allows to use Winston logger with ldapjs without using Bunyan.",
+  "version": "1.0.0",
+  "keywords": [
+    "bunyan",
+    "winston",
+    "ldapjs"
+  ],
+  "homepage": "https://github.com/beardon/ldapjs-winston-adapter",
+  "bugs": {
+    "url": "https://github.com/beardon/ldapjs-winston-adapter",
+    "email": "aaron.bean@beardon.com"
+  },
+  "author": {
+    "name": "Aaron Bean",
+    "email": "aaron.bean@beardon.com",
+    "url": "https://github.com/aaronbean"
+  },
+  "main": "lib/adapter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/beardon/ldapjs-winston-adapter.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.54.0"
+  }
+}

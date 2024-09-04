@@ -1,7 +1,7 @@
 {
   "name": "ldapjs-winston-adapter",
   "description": "Allows to use Winston logger with ldapjs without using Bunyan.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [
     "bunyan",
     "winston",
